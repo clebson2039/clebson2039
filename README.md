@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clebson2039
-- 👀 I’m interested in object-oriented programming
-- 🌱 I’m currently learning .Net
+- 👀 I’m interested in front end programming
+- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me clebsonfarias1@gmail.com
 
