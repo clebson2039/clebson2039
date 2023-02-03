@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## Olá, me chamo Clebson Farias, sejam bem vindos(as) ao meu perfil!
 <div align="center">
   <a href="https://github.com/clebson2039">
-  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=clebson2039&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebson2039&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img style="display: inline_block" height="100em" src="https://github-readme-stats.vercel.app/api?username=clebson2039&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="display: inline_block" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebson2039&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
