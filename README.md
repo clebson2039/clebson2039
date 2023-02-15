@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clebson Farias
-- 👀 I’m interested in front end 
-- 🌱 I’m currently learning front end programming
+- 👀 I’m interested for java language
+- 🌱 I’m currently learning back end programming
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me clebsonfarias1@gmail.com
 
